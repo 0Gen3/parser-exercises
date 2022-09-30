@@ -1,3 +1,3 @@
 grammar one;
 
-prog: '111+';
+prog: 111+;
