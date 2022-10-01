@@ -1,6 +1,6 @@
 grammar three;
 
-prog : expr ;
+prog : (expr)* ;
 expr: STRING ;
-STRING : ('X' ~[X]* 'X')+;
+STRING : [\u0000-\uffff]* ('X' ~[X]* 'X') [\u0000-\uffff]*;
 NEWLINE : [\r\n]+ ;
