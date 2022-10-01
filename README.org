@@ -113,3 +113,9 @@ A silly green computer ran quickly
 
 Extension:
     Can you ensure that words agree with each other? For example, the language above allows "A angry", but in actual english, we would want to make sure we only accepted "An angry". How complicated do you think this would make the grammar?
+
+    --> As the professor has mentioned in the class, the sentence can be syntactically correct but semantically wrong (i.e., Colorless green dreams sleep furiously). If we are going to fix all the grammar into correct contexts, 
+    including the example of "An angry" by the human hands, it might take more than a lifetime to do that (well, I might be exaggerating). I saw the news a while ago of AI-generated Harry Potter's new book, which the story is going kinda wild,
+    so I believe AI technologies will not be reaching the accuracy of "analyzing the context" anytime soon (I am writing solely based on the information that I know, so bear with me). Also, I am unsure whether I am writing this sentence with 
+    correct grammar. (I'm sure I have several grammar mistakes so far). And the language we are using is certainly different from that of Shakespeare. Perhaps, the language itself is slowly changing its  form right now. 
+    Therefore, I believe this will fall into the metaphysical question. "What is the correct language? Is it possible to define a correct language?"
